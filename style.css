@@ -115,11 +115,13 @@ h2 {
 }
 
 .card {
-  background: #f9fafb;
-  padding: 25px;
+  background: #ffffff;
+  padding: 30px 25px;
   text-align: center;
-  border-radius: 10px;
-  transition: 0.3s;
+  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8);
+  transition: all 0.3s ease;
 }
 
 .card:hover {
